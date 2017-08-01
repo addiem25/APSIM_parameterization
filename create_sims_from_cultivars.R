@@ -1,8 +1,3 @@
-#link for this shared code:  https://kobra.io/#/e/-Kox9lFn7G6ppp2DflhY
-#Title: create_sims_from_cultivars.R
-#put a header here
-
-
 #install packages (first time only)
 pkgs <- c('dplyr', 'tidyr', 'pander', 'reshape2', 'ggplot2',
           'magrittr', 'oz', 'knitr', 'rmarkdown', 'shiny')
